@@ -1,0 +1,10 @@
+#/sys/sys/id.c
+Id 4
+ItemId 33
+NewUser 1
+CharNumber 1
+LoginPlayer 1
+UserCount 8
+CountTime 15
+MaxUser 2
+TransId 10000
